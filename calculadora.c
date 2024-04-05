@@ -27,11 +27,11 @@ int main(){
 		system("cls");//limpa a tela
 		
 		printf("Com qual operação, você quer trabalhar?\n");//configuração do menu
-		printf("a) Soma\n");
-		printf("b) Subtração\n");
-		printf("c) Multiplicação\n");
-		printf("d) Divisão\n");
-		printf("e) Sair\n");
+		printf("\ta) Soma\n");
+		printf("\tb) Subtração\n");
+		printf("\tc) Multiplicação\n");
+		printf("\td) Divisão\n");
+		printf("\te) Sair\n");
 		scanf("%c", &alt);
 		
 		alt = tolower(alt);//pega o que está na variável alt e deixa em minúsculo, biblioteca ctype.h
