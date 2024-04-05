@@ -1,0 +1,1 @@
+Esse projeto mostra como fazer uma calculadora básica usando a linguagem de programação C
